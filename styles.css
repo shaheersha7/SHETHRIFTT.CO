@@ -1,0 +1,478 @@
+body{
+  margin: 0;
+  background: #cdd5c0;
+  font-family: sans-serif;
+  cursor: pointer;
+}
+.bgimg{
+  width: 1519.2px;
+  height: 720px;
+}
+.header{
+  background-color: #cdd5c0;
+  height: 60px;
+  width: 100%;
+}
+.logo{
+  height: 50px;
+  padding-left: 40px;
+  padding-top: 3px; 
+}
+nav{
+  width: 100%;
+  height: 60px;
+  background: #cdd5c0;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+div ul li{
+  list-style: none;
+}
+div ul li a{
+  text-decoration: none;
+  color: black;
+}
+.nul{
+  display: flex;
+  margin: 0;
+  padding: 0 40px;
+  float: right;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.nli{
+  list-style: none;
+}
+.na{
+  display: block;
+  color: #6d7754;
+  padding: 0 20px;
+  text-decoration: none;
+  text-transform: upDress for ladiescase;
+  font-weight: bold;
+  line-height: 60px;
+}
+.card1{
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+.card2{
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+.card10{
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+.card11{
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+.card12{
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+.card6{
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+.card3{
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+.card7{
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+.card9{
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+.card8{
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+.card4{
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+.card5{
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+.container{
+  padding: 2px 16px;
+}
+.cardimg{
+  border-radius: 5px 5px 0px 0px;
+  height: 150px;
+  width: 150px;
+  padding: 2px 16px;
+  padding-top: 16px;
+}
+.cataloge1:hover{
+  transform: scale(1.03);
+}
+.cataloge2:hover{
+  transform: scale(1.03);
+}
+.cataloge3:hover{
+    transform: scale(1.03);
+}
+.cataloge4:hover{
+  transform: scale(1.03);
+}
+.cataloge5:hover{
+  transform: scale(1.03);
+}
+.cataloge6:hover{
+  transform: scale(1.03);
+}
+.cataloge7:hover{
+  transform: scale(1.03);
+}
+.cataloge8:hover{
+  transform: scale(1.03);
+}
+.cataloge9:hover{
+  transform: scale(1.03);
+}
+.cataloge10:hover{
+  transform: scale(1.03);
+}
+.cataloge11:hover{
+  transform: scale(1.03);
+}
+.cataloge12:hover{
+  transform: scale(1.03);
+}
+.cataloge1{
+  padding-top: 20px;
+  padding-right: 60px;
+  padding-left: 30px;
+  width: 180px;
+  float: right;
+  color: #6d7754;
+  transition: 2ms;
+}
+
+.cataloge2{
+  padding-right: 30px;
+  padding-top: 20px;
+  width: 180px;
+  float: right;
+  color: #6d7754;
+  transition: 2ms;
+}
+.cataloge10{
+  padding-left: 65px;
+  padding-top: 80px;
+  width: 180px;
+  float: left;
+  color: #6d7754;
+  transition: 2ms;
+}
+.cataloge11{
+  padding-left: 65px;
+  padding-top: 80px;
+  width: 180px;
+  float: left;
+  color: #6d7754;
+  transition: 2ms;
+}
+.cataloge12{
+  padding-left: 65px;
+  padding-top: 80px;
+  width: 180px;
+  float: left;
+  color: #6d7754;
+  transition: 2ms;
+}
+.cataloge6{
+  padding-left: 60px;
+  padding-top: 80px;
+  width: 180px;
+  float: left;
+  color: #6d7754;
+  transition: 2ms;
+}
+.cataloge3{
+  padding-top: 20px;
+  padding-right: 60px;
+  padding-left: 30px;
+  width: 180px;
+  float: right;
+  color: #6d7754;
+  transition: 2ms;
+}
+.cataloge4{
+  padding-left: 65px;
+  padding-top: 80px;
+  width: 180px;
+  float: left;
+  color: #6d7754;
+  transition: 2ms;
+}
+.cataloge5{
+  padding-left: 60px;
+  padding-top: 80px;
+  width: 180px;
+  float: left;
+  color: #6d7754;
+  transition: 2ms;
+}
+.cataloge7{
+  padding-right: 65px;
+  padding-top: 20px;
+  width: 180px;
+  float: right;
+  color: #6d7754;
+  transition: 2ms;
+}
+.cataloge8{
+  padding-right: 65px;
+  padding-top: 20px;
+  width: 180px;
+  float: right;
+  color: #6d7754;
+  transition: 2ms;
+}
+.cataloge9{
+  padding-right: 65px;
+  padding-top: 20px;
+  width: 180px;
+  float: right;
+  color: #6d7754;
+  transition: 2ms;
+}
+.section2{
+  background:#cdd5c0;
+  height: 860px;
+  padding-top: 50px;
+}
+.catalogetxt{ 
+  text-align-last: center;
+  font-size: xx-large;
+  margin: 0px;
+  color: #6d7754;
+  padding-bottom: 30px;
+  font-weight: bolder;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.sec{
+  width: 1519.2px;
+  height: 720px;
+}
+.sec3{
+  background:#273309;
+  width: 1519.2px;
+  height: 720px;
+}
+footer{
+  width: 100%;
+  background:#cdd5c0;
+  color: #6d7754;
+  padding: 30px 0 3px;
+  font-size: 15px;
+}
+.row{
+  width: 90%;
+  padding-left: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin: 0;
+}
+.col1{
+  flex-basis:20% ;
+  padding: 10px;
+  padding-left: 300px;
+}
+.col2{
+  flex-basis: 20%;
+  padding: 10px;
+  padding-left: 100px;
+}
+.col3{
+  flex-basis: 0%;
+  padding: 15px;
+}
+.flogo{
+  width: 100px;
+}
+.col2 h3{
+  width: fit-content;
+}
+.col3 h3{
+  width: fit-content;
+  padding-left: 40px;
+  margin-top: 11px;
+}
+.email-id{
+  width: fit-content;
+  border-bottom: 1px solid #6d7754;
+}
+.s{
+  list-style: none;
+  margin-bottom: 10px;
+}
+.a{
+  color: #6d7754;
+  text-decoration: none;
+}
+.button{
+  position: absolute;
+  margin: 468px 0 ;
+  margin-left: 1420px;
+  background: #cdd5c0;
+  border: 1px solid #6d7754;
+  border-radius: 6px;
+  cursor: pointer;
+  box-shadow: 0 5px 10px #6d7754;
+  transition: transform 0.2ms ease;
+  margin-right: 20px;
+}
+.button:active{
+  transform: scale(0.96);
+}
+.buttontxt{
+  text-decoration: none; 
+  font-weight: bold;
+  color: #6d7754;
+}
+hr{
+  width: 90%;
+  border: 0;
+  border-bottom: 1px solid #6d7754;
+  margin:5px auto;
+}
+.copy{
+  text-align: center;
+}
+.underline{
+  width: 59px;
+  background: #6d7754;
+  height: 1px;
+  position: absolute;
+  border-radius: 3px;
+  top: 2485px;
+  left: 0;
+  margin-left: 1050px;
+  overflow: hidden;
+}
+.underline span{
+  width: 15px;
+  height: 100%;
+  background: #cdd5c0;
+  border-radius: 2px;
+  position: absolute;
+  top: 0;
+  left: 10px;
+  animation: moving 0.5s linear infinite;
+}
+.underline1{
+  width: 65px;
+  background: #6d7754;
+  height: 1px;
+  position: absolute;
+  border-radius: 3px;
+  top: 2485px;
+  left: 0;
+  margin-left: 712px;
+  overflow: hidden;
+}
+.underline1 span{
+  width: 15px;
+  height: 100%;
+  background: #cdd5c0;
+  border-radius: 2px;
+  position: absolute;
+  top: 0;
+  left: 10px;
+  animation: moving 0.5s linear infinite;
+}
+@keyframes moving{
+  0%{
+    left: -20px;
+  }
+  100%{
+    left: 100px;
+  }
+}
+.whytxt{
+  text-align-last: center;
+  font-size: xx-large;
+  color:#6d7754;
+  margin: 0px;
+  padding-top: 60px;
+  position: relative;
+  font-weight: bolder;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.whyli{
+  font-size: medium;
+
+}
+.whydiv{
+  padding-top: 20px;
+  padding-left: 200px;
+  width: 1319px;
+  height: 310px;
+  color: #6d7754;
+  position: absolute;
+}
+.whyh4{
+  padding-left: 40px;
+  padding-top: 10px;
+  font-size: x-large;
+}
+.sm{
+  height: 295px;
+  width: 100%;
+  align-content: center;
+}
+.smimg1{
+  width: 30px;
+  height: 30px;
+  padding-left: 755.6px;
+  padding-top: px;
+  position: absolute;
+}
+.smimg2{
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  padding-left: 710px;
+}
+.smimg3{
+  width: 30px;
+  height: 30px;
+  padding-left: 800px;
+  position: absolute;
+}
+.smtxt{
+  text-align: center;
+  padding-left: 20px;
+  color:#6d7754;
+  font-size: xx-large;
+  position: sticky;
+  padding-top: 410px;
+}
+.bg2{
+  width: 100%;
+  height: 720px;
+  z-index: -1px;
+  position: absolute;
+}
