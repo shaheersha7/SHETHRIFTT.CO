@@ -1,0 +1,19 @@
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.img{
+    width: 500px;
+    height: 500px;
+    border: 2px solid #6d7754;
+    border-radius: 13px;
+    box-shadow: 4px 7px 7px 0px black;
+    cursor: pointer;
+    margin: 10px;
+    transition: 2ms;
+}
+.img:hover{
+    transform: scale(1.03);
+}
